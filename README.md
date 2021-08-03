@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="50px" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-   language-icon-by-vexels.png"/>
   
-  <img align="left" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/> <br/>
+  <img align="left" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/><br/>
   
   <br />
   
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
    
    <img align="left" width="80px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/npm.png"/> 
    
-   <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> <br/> <br/>
+   <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> <br/><br/>
    
    <br />
    
