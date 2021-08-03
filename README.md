@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img align="left" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> 
   
   <br />
- 
+  
   <br />
   
   ##### TOOLS :
@@ -80,10 +80,9 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> 
    
+   <br />
    
-  <br />
- 
-  <br />
+   <br />
   
   ##### OSX :
 
@@ -92,10 +91,10 @@ Here are some ideas to get you started:
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"/> 
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> 
-  
-  <br />
- 
-  <br />
+   
+   <br />
+   
+   <br />
   
   ##### DATABASES :
 
@@ -106,18 +105,18 @@ Here are some ideas to get you started:
   <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
   
   <br />
- 
+  
   <br />
   
   ##### SERVICES : 
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
-  <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> 
-
-  <br />  
-
-  <br />  
+  <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/>
+  
+  <br />
+  
+  <br />
   
   <br />
 
