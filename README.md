@@ -1,4 +1,4 @@
-### Hi there  # ` I'm NIKHIL DAFADE ` 👋
+###  `Hi there I'm NIKHIL DAFADE ` 👋
 
 <!--
 **NeekhilD/NeekhilD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
