@@ -54,9 +54,9 @@ Here are some ideas to get you started:
   
   <img align="left" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
   
-  <img align="left" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
+  <img align="left" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
   
-  <img align="left" width="80px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
+  <img align="left" width="70px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
   
   <img align="left" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/><br/><br/>
   
