@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 👉🏻 Successes achieved during my time in this role include:
 
-• Apprenticeship Virtual Experience Program by Aon 
-• Accenture Nordic Developer Program 
-• Deloitte Technology Consulting Virtual Internship
+• Apprenticeship Virtual Experience Program by Aon </br>
+• Accenture Nordic Developer Program </br>
+• Deloitte Technology Consulting Virtual Internship </br>
+• AWS Certified Solutions Architect - Associate </br>
 
 👉🏻 My strongest skill is my creativity.
 
