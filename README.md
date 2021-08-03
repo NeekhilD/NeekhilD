@@ -56,9 +56,9 @@ Here are some ideas to get you started:
   
   ##### TOOLS :
 
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  <img align="left" width="50px" src=""/> 
   
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  <img align="left" width="50px" src=""/> 
   
   <br />
  
@@ -66,9 +66,9 @@ Here are some ideas to get you started:
   
   ##### OS :
 
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  <img align="left" width="100px" src="https://www.iconspng.com/images/linux-avatar/linux-avatar.jpg"/> 
   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+   <img align="left" width="50px" src=""/> 
   
   <br />
  
