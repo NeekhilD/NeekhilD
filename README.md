@@ -123,9 +123,9 @@ Here are some ideas to get you started:
 
   ## Connect with me:
 
- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/neekhild/)
+ [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1200px-Linkedin_Shiny_Icon.svg.png" />](https://www.linkedin.com/in/neekhild/)
 
- [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_whatndoes/)
+ [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" />](https://www.instagram.com/_whatndoes/)
 
  <br />  
 
