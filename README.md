@@ -71,9 +71,11 @@ Here are some ideas to get you started:
   
   ##### OS :
 
-  <img align="left" width="50px" src="https://toppng.com/uploads/preview/linux-logo-png-linux-tux-black-white-115628885292kgc8ongco.png"/> 
+   <img align="left" width="50px" src="https://toppng.com/uploads/preview/linux-logo-png-linux-tux-black-white-115628885292kgc8ongco.png"/> 
   
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"/> 
+   
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> 
   
   <br />
  
