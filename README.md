@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
   
+  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  
   <br />
  
   <br />
@@ -65,6 +67,8 @@ Here are some ideas to get you started:
   ##### OS :
 
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
   
   <br />
  
@@ -76,7 +80,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="150px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/> 
   
-  <img align="left" width="150px" src="hhttps://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
+  <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
   
   <br />
  
