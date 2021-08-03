@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 <br />
 
 
-
+ ### SERVICES
 
 <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
-
+<img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> 
 
 
 
