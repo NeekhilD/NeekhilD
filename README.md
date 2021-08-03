@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
   
-  <img align="left" width="40px" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-   language-icon-by-vexels.png"/>
+  <img align="left" width="80px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
   
   <img align="left" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/><br/><br/>
   
