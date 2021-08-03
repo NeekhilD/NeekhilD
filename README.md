@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="40px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"/> 
   
-  <img align="left" width="100px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
+  <img align="left" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
   
   <img align="left" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
   
