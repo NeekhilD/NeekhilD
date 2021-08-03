@@ -130,4 +130,7 @@ Here are some ideas to get you started:
  <br />
 
 
-Made with ❤, by `NIKHIL DAFADE`
+
+<img align='center' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="230">
+
+Made by, 👨🏻‍💻 `NIKHIL DAFADE`
