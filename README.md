@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   
   ##### DATABASE :
 
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  <img align="left" width="150px" src="https://sedaily-topics.s3.amazonaws.com/topic_images/0_23823574869487363.png"/> 
   
   <br />
  
