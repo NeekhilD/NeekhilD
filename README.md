@@ -50,6 +50,15 @@ Here are some ideas to get you started:
 
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
   
+  <img align="left" width="50px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"/> 
+  
+  <img align="left" width="100px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
+  
+  <img align="left" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
+  
+  <img align="left" width="100px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
+  
+  
   <br />
  
   <br />
@@ -63,6 +72,8 @@ Here are some ideas to get you started:
    <img align="left" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/> 
+   
+   <img align="left" width="50px" src="https://nodered.org/about/resources/media/node-red-hexagon.png"/> 
    
    
   <br />
