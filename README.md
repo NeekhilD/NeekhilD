@@ -48,17 +48,15 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-<img align="left" width="40px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> </br>
-
+<img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
 
 
 
 
+</br>
 
+</br>
 
 
 ### Connect with me:
