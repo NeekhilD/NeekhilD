@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="50px" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-   language-icon-by-vexels.png"/>
   
-  <img align="left" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/><br/>
+  <img align="left" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/><br/><br/>
   
   <br />
   
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"/> 
    
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> <br/>
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> <br/><br/>
    
    <br />
    
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="150px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/> 
   
-  <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/> <br/>
+  <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/> <br/><br/>
   
   <br />
   
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
-  <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> <br/>
+  <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> <br/><br/>
   
   <br />
   
