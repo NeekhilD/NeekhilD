@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ##### LANGUAGES :
 
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
   
-  <img align="left" width="50px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"/> 
+  <img align="left" width="40px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"/> 
   
   <img align="left" width="100px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
   
@@ -68,13 +68,13 @@ Here are some ideas to get you started:
 
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png"/> 
   
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> 
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> 
   
    <img align="left" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/>
    
-   <img align="left" width="50px" src="https://nodered.org/about/resources/media/node-red-hexagon.png"/> 
+   <img align="left" width="40px" src="https://nodered.org/about/resources/media/node-red-hexagon.png"/> 
    
    <img align="left" width="80px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/npm.png"/> 
    
