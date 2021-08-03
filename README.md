@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 📲  I love to connect with people from all walks of life, so please don’t hesitate to send me a message.
 
-<br />
 
 <br />
 
+<br />
 
-##### LANGUAGE :
+##### LANGUAGES :
 
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
   
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
   
-  <img align="left" width="50px" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon-by-vexels.png"/>
+  <img align="left" width="50px" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-   language-icon-by-vexels.png"/>
   
   <img align="left" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> 
   
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  
   <br />
   
-  ##### OS :
+  ##### OSX :
 
    <img align="left" width="50px" src="https://toppng.com/uploads/preview/linux-logo-png-linux-tux-black-white-115628885292kgc8ongco.png"/> 
   
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
  
   <br />
   
-  ##### DATABASE :
+  ##### DATABASES :
 
   <img align="left" width="150px" src="https://sedaily-topics.s3.amazonaws.com/topic_images/0_23823574869487363.png"/> 
   
@@ -115,33 +115,19 @@ Here are some ideas to get you started:
 
   <br />  
 
+  <br />  
 
+  ## Connect with me:
 
+ 
 
+ [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/neekhild/)
 
+ [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_whatndoes/)
 
+ <br />  
 
-
-
-
-
-<br />  
-
-<br />
-
-
-
-### Connect with me:
-
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_saurrabbh)
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/starc007/)
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/thesaurrabh/)
-
-<br />  
-
-<br />
+ <br />
 
 
 Made with ❤, by `NIKHIL DAFADE`
