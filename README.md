@@ -1,4 +1,4 @@
-###  `Hi there I'm NIKHIL DAFADE `  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2> ###  `Hi there I'm NIKHIL DAFADE `  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
 <!--
 **NeekhilD/NeekhilD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 • Accenture Nordic Developer Program </br>
 • Deloitte Technology Consulting Virtual Internship </br>
 • AWS Certified Solutions Architect - Associate </br>
+• HashiCorp Infrastructure Automation Certification </br>
+• Exam 98-381: Introduction to Programming Using Python Microsoft Technology </br>
 
 👉🏻 My strongest skill is my creativity.
 
@@ -121,15 +123,6 @@ Here are some ideas to get you started:
 
 
 
-⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript
-
-```javascript
-
-// Which came first: the chicken or the egg?
-
-console.log(["🥚", "🐣", "🐥", "🐔"].sort()) >>> ["🐔", "🐣", "🐥", "🥚"];
-
-```
 
 <br />
 
