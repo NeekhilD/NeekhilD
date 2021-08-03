@@ -44,27 +44,7 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently learning to remove software chaos, one at a time.
 
-
-
-👯 I’m looking to collaborate on open source projects using JavaScript.
-
-
-
-
-
-🥅 2021 Goals: Contribute more to Open Source projects, improve full stack skills.
-
-
-
-
-
-🍎 Beginner mindset (open to learning)
-
-
-
-😄 Pronouns: Coder, Leader and Kind Hearted
 
 <br />
 
