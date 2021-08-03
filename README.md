@@ -74,6 +74,10 @@ Here are some ideas to get you started:
 
   <img align="left" width="150px" src="https://sedaily-topics.s3.amazonaws.com/topic_images/0_23823574869487363.png"/> 
   
+  <img align="left" width="150px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/> 
+  
+  <img align="left" width="150px" src="hhttps://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
+  
   <br />
  
   <br />
