@@ -45,12 +45,17 @@ Here are some ideas to get you started:
 
 <br />
 
-
- #### SERVICES
+ #### LANGUAGE : 
+  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
+  
+ 
+ #### SERVICES : 
 
 <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
 <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> 
+
+<br />  
 
 
 
