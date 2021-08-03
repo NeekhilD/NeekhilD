@@ -78,7 +78,7 @@ Here are some ideas to get you started:
    
    <img align="left" width="80px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/npm.png"/> 
    
-   <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> <br/>
+   <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> <br/> <br/>
    
    <br />
    
