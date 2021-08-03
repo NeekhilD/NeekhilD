@@ -56,10 +56,15 @@ Here are some ideas to get you started:
   
   ##### TOOLS :
 
-  <img align="left" width="50px" src=""/> 
+  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png"/> 
   
-  <img align="left" width="50px" src=""/> 
+  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> 
   
+   <img align="left" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
+   
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/> 
+   
+   
   <br />
  
   <br />
