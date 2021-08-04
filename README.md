@@ -1,4 +1,4 @@
- ### <h2>  `Hi there, I'm NIKHIL DAFADE`     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+ ### <h2> `Hi there, I'm NIKHIL DAFADE`     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h2>
 
 <!--
 **NeekhilD/NeekhilD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 👉🏻 Successes achieved during my time in this role include:
 
-• Apprenticeship Virtual Experience Program by Aon </br>
+• Apprenticeship Virtual Experience Program by <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aon_Corporation_logo.svg/1280px-Aon_Corporation_logo.svg.png"/> </br>
 • Accenture Nordic Developer Program </br>
 • Deloitte Technology Consulting Virtual Internship </br>
 • AWS Certified Solutions Architect - Associate </br>
