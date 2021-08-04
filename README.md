@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### CofO : <img align="Center" width="40px" src="https://bestanimations.com/media/india/659801420india-flag-waving-animated-gif-11.gif"/><br/><br/>
+### CofO : <img align="Center" width="40px" src="https://bestanimations.com/media/india/659801420india-flag-waving-animated-gif-11.gif"/> <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> <br/>
 
 <br />
