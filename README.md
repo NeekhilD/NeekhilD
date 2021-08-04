@@ -114,6 +114,8 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png"/>
    
+   <img align="left" width="100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/ubuntu-orange-logo.png"/>
+   
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> <br/><br/>
    
    <br />
