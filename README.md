@@ -92,7 +92,11 @@ Here are some ideas to get you started:
    
    <img align="left" width="100px" src="https://www.maketecheasier.com/assets/uploads/2019/07/chocolate-feature.png"/> 
    
-   <img align="left" width="120px" src="https://i.pinimg.com/originals/76/c4/0b/76c40bdd2088eb8a06c590b1a8ec8448.png"/> 
+   <img align="left" width="120px" src="https://i.pinimg.com/originals/76/c4/0b/76c40bdd2088eb8a06c590b1a8ec8448.png"/>
+   
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png"/>
+   
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/> 
   
    <img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
   
