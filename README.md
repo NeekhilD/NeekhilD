@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/> 
   
-  <img align="center" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/> 
+  <img align="left" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/>
   
   <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> 
   
