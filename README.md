@@ -181,6 +181,6 @@ Here are some ideas to get you started:
 
 <!-- <img align='center' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="230"> -->
 
-<img align='center' src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100">
+<img align="Center" width="80px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
-Made by, 👨🏻‍💻 `NIKHIL DAFADE`
+Made by, 👨🏻‍💻 `NIKHIL DAFADE` 
