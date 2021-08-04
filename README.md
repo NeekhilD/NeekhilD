@@ -131,7 +131,22 @@ Here are some ideas to get you started:
   <br />
   
   <br />
+  
+  ## BADGES
+  
+  <img align="left" width="100px" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png"/>
+  
+   <a href="url"><img src="https://user-images.githubusercontent.com/26859754/128143935-0a301ade-d9ce-45b1-8cb8-388a0a204178.png" align="left" height="100" width="100" ></a>
 
+   
+   <br />
+  
+   <br />
+  
+   <br /> 
+   
+   <br />
+  
   ## Connect with me:
 
  [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1200px-Linkedin_Shiny_Icon.svg.png" />](https://www.linkedin.com/in/neekhild/)
