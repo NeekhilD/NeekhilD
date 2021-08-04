@@ -112,6 +112,8 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png"/>
    
+   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png"/>
+   
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> <br/><br/>
    
    <br />
