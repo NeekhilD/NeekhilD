@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   
    <img align="left" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
    
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/>
+   <img align="left" width="50px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/>
    
    <img align="left" width="40px" src="https://nodered.org/about/resources/media/node-red-hexagon.png"/> 
    
