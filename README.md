@@ -74,7 +74,7 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/>
    
-   <img align="left" width="40px" src="https://nodered.org/about/resources/media/node-red-hexagon.png"/> 
+   <img align="left" width="40px" src="https://nodered.org/about/resources/media/node-red-icon-2.png"/> 
    
    <img align="left" width="80px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/npm.png"/> 
    
