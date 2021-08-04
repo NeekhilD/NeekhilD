@@ -159,7 +159,7 @@ Here are some ideas to get you started:
  
  [<img align="left" alt="Credly" width="55px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" />](https://www.credly.com/users/nikhil-dafade/badges)
  
-  [<img align="left" alt="Hackerrank" width="120px" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" />](https://www.hackerrank.com/neekhildafade)
+  [<img align="left" alt="Hackerrank" width="120px" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" />](https://www.hackerrank.com/neekhildafade)<br/>
 
  <br />  
 
