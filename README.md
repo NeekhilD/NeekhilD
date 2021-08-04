@@ -150,7 +150,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="50px" src="https://res.cloudinary.com/gremlin/image/upload/t_default,f_auto/v1596742528/Authors/Gremlin1.png"/> 
   
-  <img align="left" width="50px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png"/> <br/><br/>
+  <img align="left" width="60px" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x409-t2q56l4h.png"/> <br/><br/>
   
   <br />
   
