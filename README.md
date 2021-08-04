@@ -85,8 +85,12 @@ Here are some ideas to get you started:
    <img align="left" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/>
   
    <img align="center" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> 
+   
+   <img align="left" width="100px" src="https://www.maketecheasier.com/assets/uploads/2019/07/chocolate-feature.png"/> 
+   
+   <img align="left" width="120px" src="https://i.pinimg.com/originals/76/c4/0b/76c40bdd2088eb8a06c590b1a8ec8448.png"/> 
   
-   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
+   <img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
   
   <br />
   
