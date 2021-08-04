@@ -80,7 +80,7 @@ Here are some ideas to get you started:
    
   <img align="left" width="60px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png"/> 
   
-  <img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png"/> 
+  <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/> 
   
   <img align="left" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/> 
   
