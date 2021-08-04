@@ -155,7 +155,7 @@ Here are some ideas to get you started:
 
  [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/neekhild/)
 
- [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/_whatndoes/)
+ [<img align="left" alt="Instagram" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/2560px-Instagram_logo.svg.png" />](https://www.instagram.com/_whatndoes/)
  
  [<img align="left" alt="Credly" width="55px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" />](https://www.credly.com/users/nikhil-dafade/badges)
  
