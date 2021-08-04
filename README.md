@@ -78,7 +78,11 @@ Here are some ideas to get you started:
    
    <img align="left" width="80px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/npm.png"/> 
    
-   <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> <br/><br/>
+  <img align="left" width="60px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png"/> 
+  
+  <img align="left" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/> 
+  
+  <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> <br/><br/>
    
    <br />
    
