@@ -120,7 +120,9 @@ Here are some ideas to get you started:
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
-  <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> <br/><br/>
+  <img align="left" width="180px" src="https://harness.io/wp-content/uploads/2021/07/Terraform-Logo.png"/> 
+  
+  <img align="left" width="80px" src="https://www.serverless.com/static/logo-serverless-components-center-vertical-dark-2d92f7ea180482afa781b3332b0cfdad.png"/> <br/><br/>
   
   <br />
   
