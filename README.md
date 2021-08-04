@@ -88,6 +88,8 @@ Here are some ideas to get you started:
   
    <img align="center" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> 
    
+   <img align="left" width="80px" src="https://www.thethingsnetwork.org/conference/wp-content/themes/incubator-child/assets/images/LoRaWAN_logo_RGB_white.png"/> 
+   
    <img align="left" width="100px" src="https://www.maketecheasier.com/assets/uploads/2019/07/chocolate-feature.png"/> 
    
    <img align="left" width="120px" src="https://i.pinimg.com/originals/76/c4/0b/76c40bdd2088eb8a06c590b1a8ec8448.png"/> 
