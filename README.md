@@ -153,9 +153,13 @@ Here are some ideas to get you started:
   
   ## Connect with me:
 
- [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1200px-Linkedin_Shiny_Icon.svg.png" />](https://www.linkedin.com/in/neekhild/)
+ [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/neekhild/)
 
- [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" />](https://www.instagram.com/_whatndoes/)
+ [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/_whatndoes/)
+ 
+ [<img align="left" alt="Credly" width="55px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" />](https://www.credly.com/users/nikhil-dafade/badges)
+ 
+  [<img align="left" alt="Hackerrank" width="100px" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" />](https://www.hackerrank.com/neekhildafade)
 
  <br />  
 
