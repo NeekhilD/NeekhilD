@@ -82,13 +82,11 @@ Here are some ideas to get you started:
   
   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/> 
   
-  <img align="left" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/> 
+  <img align="center" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/> 
   
-  <img align="left" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> 
+  <img align="center" width="50px" src="https://hackr.io/blog/media/pycharm.png"/> 
   
   <img align="center" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
-  
-  <br />
   
   <br />
   
