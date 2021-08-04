@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   
   ##### OSX :
 
-   <img align="left" width="50px" src="https://toppng.com/uploads/preview/linux-logo-png-linux-tux-black-white-115628885292kgc8ongco.png"/> 
+   <img align="left" width="40px" src="https://pngimg.com/uploads/linux/linux_PNG1.png"/> 
   
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"/> 
    
