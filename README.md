@@ -162,6 +162,8 @@ Here are some ideas to get you started:
   
   <img align="left" width="100px" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png"/>
   
+  <img align="left" width="200px" src="https://images.credly.com/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/linkedin_thumb_IBM_Cloud_Essentials.png"/>
+  
    <a href="url"><img src="https://user-images.githubusercontent.com/26859754/128143935-0a301ade-d9ce-45b1-8cb8-388a0a204178.png" align="left" height="100" width="100" ></a>
 
    
