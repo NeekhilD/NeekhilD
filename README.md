@@ -106,6 +106,10 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png"/> 
    
+   <img align="left" width="150px" src="https://wiki.manjaro.org/images/e/ea/New_logo_tex.png"/> 
+   
+   <img align="left" width="80px" src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png"/>
+   
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> <br/><br/>
    
    <br />
