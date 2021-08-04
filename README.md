@@ -58,6 +58,8 @@ Here are some ideas to get you started:
   
   <img align="left" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
   
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"/>
+  
   <img align="left" width="40px" src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png"/> <br/><br/>
   
   <br />
