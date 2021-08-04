@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br />
 
-##### LANGUAGES :
+##### `LANGUAGES` :
 
   <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
   
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   
   <br />
   
-  ##### TOOLS :
+  ##### `TOOLS` :
 
   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png"/> 
   
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
   
   <br />
   
-  ##### OSX :
+  ##### `OSX` :
 
    <img align="left" width="40px" src="https://pngimg.com/uploads/linux/linux_PNG1.png"/> 
   
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
    
    <br />
   
-  ##### DATABASES :
+  ##### `DATABASES` :
 
   <img align="left" width="150px" src="https://sedaily-topics.s3.amazonaws.com/topic_images/0_23823574869487363.png"/> 
   
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
   
   <br />
   
-  ##### SERVICES : 
+  ##### `SERVICES` : 
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
