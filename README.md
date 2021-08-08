@@ -166,6 +166,10 @@ Here are some ideas to get you started:
   
   <img align="left" width="200px" src="https://images.credly.com/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/linkedin_thumb_IBM_Cloud_Essentials.png"/>
   
+  <img align="left" width="200px" src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/linkedin_thumb_Badges_v8-07_Practitioner.png"/>
+  
+  <img align="left" width="100px" src="https://images.credly.com/images/0f467dff-9212-4684-9f74-44da8879e625/MTA-Introduction_to_Programming_Using_Python.png"/>
+  
    <a href="url"><img src="https://user-images.githubusercontent.com/26859754/128143935-0a301ade-d9ce-45b1-8cb8-388a0a204178.png" align="left" height="100" width="100" ></a>
 
    
