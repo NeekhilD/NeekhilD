@@ -148,7 +148,11 @@ Here are some ideas to get you started:
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
-  <img align="left" width="80px" src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png"/> 
+  <img align="left" width="60px" src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png"/> 
+  
+  <img align="left" width="60px" src="https://brandslogos.com/wp-content/uploads/images/heroku-logo-vector.svg"/> 
+ 
+  <img align="left" width="60px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/> 
   
   <img align="left" width="50px" src="https://res.cloudinary.com/gremlin/image/upload/t_default,f_auto/v1596742528/Authors/Gremlin1.png"/> 
   
