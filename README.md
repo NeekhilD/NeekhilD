@@ -191,7 +191,7 @@ Here are some ideas to get you started:
   
   ## Portfolio Links, have a look : 😎
 
- [<img align="left" alt="LinkedIn" width="100px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/neekhild/)
+ [<img align="left" alt="LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/neekhild/)
 
  [<img align="left" alt="Instagram" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/2560px-Instagram_logo.svg.png" />](https://www.instagram.com/_whatndoes/)
  
