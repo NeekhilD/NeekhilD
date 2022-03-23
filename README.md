@@ -148,7 +148,7 @@ Here are some ideas to get you started:
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
 
-  <img align="left" width="180px" src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png"/> 
+  <img align="left" width="80px" src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png"/> 
   
   <img align="left" width="50px" src="https://res.cloudinary.com/gremlin/image/upload/t_default,f_auto/v1596742528/Authors/Gremlin1.png"/> 
   
