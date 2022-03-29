@@ -215,9 +215,9 @@ Here are some ideas to get you started:
 
 <img align="Center" width="80px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
-Made by, 👨🏻‍💻 `NIKHIL DAFADE` 
+<!--Made by, 👨🏻‍💻 `NIKHIL DAFADE` -->
 
-
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br>
 
