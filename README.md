@@ -215,4 +215,4 @@ Here are some ideas to get you started:
 
 <img align="Center" width="80px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
-Made by, 👨🏻‍💻 `NIKHIL DAFADE` 
+Made by, 👨🏻‍💻 `NIKHIL DAFADE`  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
