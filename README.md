@@ -146,7 +146,7 @@ Here are some ideas to get you started:
   
   ##### `SERVICES` : 
 
-  <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
+  ##### `<img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> `
 
   <img align="left" width="60px" src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png"/> 
   
