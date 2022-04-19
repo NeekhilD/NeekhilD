@@ -90,7 +90,7 @@ Here are some ideas to get you started:
    
    <img align="left" width="150px" src="https://www.techcret.com/images/resource/micronaut.svg"/>
    
-   <img align="left" width="80px" src="https://www.thethingsnetwork.org/conference/wp-content/themes/incubator-child/assets/images/LoRaWAN_logo_RGB_white.png"/> 
+   <img align="left" width="80px" src="http://starbeamrainbowlabs.com/images/logos/lorawan.png"/> 
    
    <img align="left" width="100px" src="https://www.maketecheasier.com/assets/uploads/2019/07/chocolate-feature.png"/> 
    
