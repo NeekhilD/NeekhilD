@@ -90,7 +90,9 @@ Here are some ideas to get you started:
    
    <img align="left" width="150px" src="https://www.techcret.com/images/resource/micronaut.svg"/>
    
-   <img align="left" width="80px" src="http://starbeamrainbowlabs.com/images/logos/lorawan.png"/> 
+   <img align="left" width="80px" src="http://starbeamrainbowlabs.com/images/logos/lorawan.png"/>
+   
+   <img align="left" width="80px" src="https://kstatic.googleusercontent.com/files/d1fb706f7984156eadda4ed289407102cd0a55c304153136527274f0389a17264386225efe6c4216fd36f516e7b24238ce43c14797e20941d39899a6ec7fe7e6"/>
    
    <img align="left" width="100px" src="https://www.maketecheasier.com/assets/uploads/2019/07/chocolate-feature.png"/> 
    
