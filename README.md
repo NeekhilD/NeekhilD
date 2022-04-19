@@ -199,7 +199,7 @@ Here are some ideas to get you started:
  
  [<img align="left" alt="Credly" width="55px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" />](https://www.credly.com/users/nikhil-dafade/badges)
  
-  [<img align="left" alt="Hackerrank" width="120px" src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg" />](https://www.hackerrank.com/neekhildafade)
+  [<img align="left" alt="Hackerrank" width="100px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" />](https://www.hackerrank.com/neekhildafade)
   
   [<img align="left" alt="Forage" width="100px" src="https://cdn.ocs.yale.edu/wp-content/uploads/sites/77/2021/05/Foragelogo.png" />](https://www.theforage.com/profile/aFhRHJCftWW3mEzA5?ref=aFhRHJCftWW3mEzA5)<br/><br/>
 
