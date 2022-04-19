@@ -98,6 +98,10 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://avatars.githubusercontent.com/u/27477080?s=280&v=4"/> 
    
+   <img align="left" width="120px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png"/> 
+   
+   <img align="center" width="120px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png"/>
+   
    <img align="left" width="120px" src="https://i.pinimg.com/originals/76/c4/0b/76c40bdd2088eb8a06c590b1a8ec8448.png"/>
    
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png"/>
