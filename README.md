@@ -110,9 +110,7 @@ Here are some ideas to get you started:
   
    <img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
    
-   <img align="center" width="100px" src=""/>
-   
-   <img align="center" width="100px" src=""/> <br/><br/>
+   <img align="center" width="200px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg"/> <br/><br/>
   
   <br />
   
