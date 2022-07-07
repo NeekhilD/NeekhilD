@@ -109,6 +109,10 @@ Here are some ideas to get you started:
    <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/> 
   
    <img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
+   
+   <img align="center" width="100px" src=""/>
+   
+   <img align="center" width="100px" src=""/> <br/><br/>
   
   <br />
   
