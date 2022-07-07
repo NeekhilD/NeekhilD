@@ -1,4 +1,4 @@
- ### <h2> `Hi there, I'm NIKHIL DAFADE`     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">  </h2>
+ ### <h2> `Hi there, I'm NIKHIL DAFADE`    <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">  </h2>-->
 
 <!--
 **NeekhilD/NeekhilD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### CofO : <img align="Center" width="100px" src="https://bestanimations.com/media/india/659801420india-flag-waving-animated-gif-11.gif"/> <br/>
+<!--### CofO : <img align="Center" width="100px" src="https://bestanimations.com/media/india/659801420india-flag-waving-animated-gif-11.gif"/> <br/>-->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> <br/>
 
 <br />
