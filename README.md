@@ -98,7 +98,7 @@ Here are some ideas to get you started:
    
    <img align="left" width="50px" src="https://avatars.githubusercontent.com/u/27477080?s=280&v=4"/> 
    
-   <img align="left" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"/> 
+   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"/> 
    
    <img align="center" width="120px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png"/>
    
