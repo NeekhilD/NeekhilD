@@ -46,116 +46,7 @@ Here are some ideas to get you started:
 
 <br />
 
-##### `LANGUAGES` :
 
-  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/> 
-  
-  <img align="left" width="40px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"/> 
-  
-  <img align="left" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
-  
-  <img align="left" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
-  
-  <img align="left" width="40px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-  
-  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"/>
-  
-  <img align="left" width="40px" src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png"/> <br/><br/>
-  
-  <br />
-  
-  <br />
-  
-  ##### `TOOLS` :
-
-  <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png"/> 
-  
-  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/> 
-  
-   <img align="left" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
-   
-   <img align="left" width="50px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/>
-   
-   <img align="left" width="40px" src="https://nodered.org/about/resources/media/node-red-icon-2.png"/> 
-   
-   <img align="left" width="80px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/npm.png"/> 
-   
-   <img align="left" width="60px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png"/> 
-  
-   <img align="left" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/> 
-  
-   <img align="left" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png"/>
-  
-   <img align="center" width="50px" src="https://hackr.io/blog/media/pycharm.png"/>
-   
-   <img align="left" width="150px" src="https://www.techcret.com/images/resource/micronaut.svg"/>
-   
-   <img align="left" width="80px" src="http://starbeamrainbowlabs.com/images/logos/lorawan.png"/>
-   
-   <img align="left" width="80px" src="https://kstatic.googleusercontent.com/files/d1fb706f7984156eadda4ed289407102cd0a55c304153136527274f0389a17264386225efe6c4216fd36f516e7b24238ce43c14797e20941d39899a6ec7fe7e6"/>
-   
-   <img align="left" width="100px" src="https://www.maketecheasier.com/assets/uploads/2019/07/chocolate-feature.png"/> 
-   
-   <img align="left" width="50px" src="https://avatars.githubusercontent.com/u/27477080?s=280&v=4"/> 
-   
-   <img align="left" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"/> 
-   
-   <img align="center" width="120px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png"/>
-   
-   <img align="left" width="120px" src="https://i.pinimg.com/originals/76/c4/0b/76c40bdd2088eb8a06c590b1a8ec8448.png"/>
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png"/>
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/> 
-  
-   <img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/> <br/><br/>
-   
-   <img align="center" width="200px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg"/> <br/><br/>
-  
-  <br />
-  
-  <br />
-  
-  ##### `OSX` :
-
-   <img align="left" width="40px" src="https://pngimg.com/uploads/linux/linux_PNG1.png"/> 
-  
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png"/> 
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png"/> 
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png"/> 
-   
-   <img align="left" width="80px" src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png"/>
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png"/>
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Linux_Mint.png"/>
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/1200px-OpenSUSE_Logo.svg.png"/>
-   
-   <img align="left" width="100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/ubuntu-orange-logo.png"/>
-   
-   <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/> <br/><br/>
-   
-   <br />
-   
-   <br />
-  
-  ##### `DATABASES` :
-
-  <img align="left" width="150px" src="https://sedaily-topics.s3.amazonaws.com/topic_images/0_23823574869487363.png"/> 
-  
-  <img align="left" width="150px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/> 
-  
-  <img align="left" width="80px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/> <br/><br/>
-  
-  <br />
-  
-  <br />
-  
-  
-  
   
   
   
@@ -175,7 +66,11 @@ Here are some ideas to get you started:
   
   <img align="left" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
   
-  <img align="left" width=60px" src= https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67 /> <br/><br/>
+   <img align="left" width="80px" src="https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67"/>
+  
+  
+  
+  <br/><br/>
   
   <br />
   
