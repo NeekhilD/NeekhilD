@@ -154,6 +154,11 @@ Here are some ideas to get you started:
   
   <br />
   
+  
+  
+  
+  
+  
   ##### `SERVICES` : 
 
   <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/> 
@@ -166,7 +171,11 @@ Here are some ideas to get you started:
   
   <img align="left" width="50px" src="https://res.cloudinary.com/gremlin/image/upload/t_default,f_auto/v1596742528/Authors/Gremlin1.png"/> 
   
-  <img align="left" width="60px" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x409-t2q56l4h.png"/> <br/><br/>
+  <img align="left" width="60px" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x409-t2q56l4h.png"/> 
+  
+  <img align="left" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
+  
+  <img align="left" width=60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/> <br/><br/>
   
   <br />
   
