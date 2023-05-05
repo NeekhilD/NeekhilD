@@ -193,7 +193,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="100px" src="https://images.credly.com/images/0f467dff-9212-4684-9f74-44da8879e625/MTA-Introduction_to_Programming_Using_Python.png"/>
   
-   <a href="url"><img src="https://user-images.githubusercontent.com/26859754/128143935-0a301ade-d9ce-45b1-8cb8-388a0a204178.png" align="left" height="100" width="100" ></a>
+  <img  align="left" height="100" width="100" src="https://user-images.githubusercontent.com/26859754/128143935-0a301ade-d9ce-45b1-8cb8-388a0a204178.png" >
 
    
    <br />
