@@ -113,7 +113,7 @@ Here are some ideas to get you started:
  
   [<img align="left" alt="Hackerrank" width="100px" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" />](https://www.hackerrank.com/neekhildafade)
   
-  [<img align="left" alt="Forage" width="100px" src="[https://cdn.ocs.yale.edu/wp-content/uploads/sites/77/2021/05/Foragelogo.png](https://theforage.wpengine.com/wp-content/uploads/2022/05/Forage_Logo_Icon_Horiz_Green_RGB-300x77.png)" />](https://www.theforage.com/profile/aFhRHJCftWW3mEzA5?ref=aFhRHJCftWW3mEzA5)<br/><br/>
+  [<img align="left" alt="Forage" width="100px" src="https://theforage.wpengine.com/wp-content/uploads/2022/05/Forage_Logo_Icon_Horiz_Green_RGB-300x77.png)" />]   <br/><br/>
 
  <br />  
 
