@@ -175,7 +175,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/React_logo.png"/>
   
-  <img align="left" width=60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png](https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67"/> <br/><br/>
+  <img align="left" width=60px" src="https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67"/> <br/><br/>
   
   <br />
   
