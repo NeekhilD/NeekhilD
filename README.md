@@ -237,4 +237,4 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)<br>
 
 
-[![forthebadge]([https://forthebadge.com/images/badges/works-on-my-machine.svg](https://theforage.wpengine.com/wp-content/uploads/2022/05/Forage_Logo_Icon_Horiz_Green_RGB-300x77.png))](https://forthebadge.com)
+[![forthebadge]([(https://theforage.wpengine.com/wp-content/uploads/2022/05/Forage_Logo_Icon_Horiz_Green_RGB-300x77.png])])(https://forthebadge.com)
