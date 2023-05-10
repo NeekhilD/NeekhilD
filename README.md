@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   
   <img align="left" width="30px" src="https://brandslogos.com/wp-content/uploads/images/heroku-logo-vector.svg"/> 
   
-  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/> 
+  <img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"/> 
  
   <img align="left" width="60px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/> 
   
