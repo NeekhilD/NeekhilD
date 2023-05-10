@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 • Back-End Engineering Virtual Experience Program By <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Lyft_logo.svg"/></br><br/>
 • AWS APAC Solutions Architecture By <img align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"/></br><br/>
 • Accenture Nordic Developer Program <img align="center" width="30px" src="https://www.accenture.com/t20200219T092729Z__w__/us-en/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png"/></br>
+• Accenture North America Coding: Development & Advanced Engineering <img align="center" width="30px" src="https://www.accenture.com/t20200219T092729Z__w__/us-en/_acnmedia/Accenture/Redesign-Assets/Careers/Images/Marquee/5/Accenture-ProBono-Consulting-XS-marquee.png"/></br>
 • Deloitte Technology Consulting Virtual Internship <img align="center" width="80px" src="https://brandslogos.com/wp-content/uploads/thumbs/deloitte-logo-vector.svg"/></br>
 • AWS Certified Solutions Architect - Associate <img align="center" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"/></br><br/>
 • HashiCorp Infrastructure Automation Certification <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/HashiCorp_Logo.png"/></br><br/>
